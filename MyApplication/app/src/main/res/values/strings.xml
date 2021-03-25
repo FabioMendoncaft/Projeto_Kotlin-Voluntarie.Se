@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="botaoLogin">Entrar</string>
+    <string name="botaoCadastro">Criar conta</string>
+    <string name="botaoDev">Developers</string>
+    <string name="x">X</string>
+    <string name="nome">Nome:</string>
+    <string name="fabio_mendon_a">Fabio Mendonça</string>
+    <string name="luiz_filipe">Luiz Filipe</string>
+    <string name="Matricula">Matrícula:</string>
+    <string name="_01256046">01256046</string>
+    <string name="_01260211">01260211</string>
+    <string name="uninassau">Uninassau</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="fabio_mendonca_f_gmail_com">fabio.mendonca.f@gmail.com</string>
+    <string name="luiz_filipe_29_hotmail_com">luiz_filipe.29@hotmail.com</string>
+    <string name="senha">Senha:</string>
+    <string name="entrar">Entrar</string>
+</resources>
